@@ -1,0 +1,40 @@
+{
+    "rules": {
+        "general": {
+            "1": "Don't be disrespectful of others.",
+            "2": "TikTok is BANNED. (Making fun of it is highly encouraged)",
+            "3": "Don't call people by nicknames they don't like.",
+            "4": "Don't delete old chat history, even if it contains a blacklisted word.",
+            "5": "Use common sense.",
+            "6": "Don't abuse loopholes just because they aren't specifically listed in the rules."
+        },
+        "discord": {
+            "1": "Do not abuse admin permissions.",
+            "2": "Have a good username that is easily typeable.",
+            "3": "Refrain from consistently spamming.",
+            "4": "Talk and use commands in the correct channels.",
+            "5": "Minimize the amount of bots in the server.",
+            "6": "Make voting fair. Don't bring people in if they are clueless, don't remove reactions, don't use misleading tactics."
+        },
+        "skyblock": {
+            "1": "To be part of the coop, you must remain active in both the discord and the coop.",
+            "2": "No stealing or scamming from anyone. This includes the promotion of these actions.",
+            "3": "If you plan to take a considerably large amount of money from the coop bank, you must first ask the coop if it's okay to do so.",
+            "4": "All borrowed money must be paid back.",
+            "5": "Pay debts (money taken from the coop bank you are responsible for). Not doing so will result in a punishment.",
+            "6": "Don't fill the auction with garbage items.",
+            "7": "Do not change the minions or their configuration without approval."
+        },
+        "music": {
+            "1": "No playing loud music unless all people in voice chat agree on it.",
+            "2": "Don't play troll audios if someone in the voice channel is actually listening to music.",
+            "3": "Don't (force) skip others' songs unless they approve or it is clear they played it as a joke."
+        }
+    },
+    "ids": {
+        "general": 804821624398020609,
+        "discord": 804821625022185512,
+        "skyblock": 804821625508724806,
+        "music": 804821626302103612
+    }
+}

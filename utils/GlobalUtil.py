@@ -1,0 +1,2 @@
+class Globals:
+    bot = None
